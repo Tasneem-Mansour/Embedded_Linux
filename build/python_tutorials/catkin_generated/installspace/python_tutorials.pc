@@ -1,0 +1,8 @@
+prefix=/home/tasneem/embedded_linux_ws/install
+
+Name: python_tutorials
+Description: Description of python_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

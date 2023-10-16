@@ -35,3 +35,15 @@
 /home/tasneem/embedded_linux_ws/build/gtest/googletest/CMakeFiles/test.dir
 /home/tasneem/embedded_linux_ws/build/gtest/googletest/CMakeFiles/gtest_main.dir
 /home/tasneem/embedded_linux_ws/build/gtest/googletest/CMakeFiles/gtest.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/install/strip.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/install/local.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/edit_cache.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/test.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/std_msgs_generate_messages_nodejs.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/std_msgs_generate_messages_lisp.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/std_msgs_generate_messages_eus.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/install.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/list_install_components.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/rebuild_cache.dir
+/home/tasneem/embedded_linux_ws/build/python_tutorials/CMakeFiles/std_msgs_generate_messages_cpp.dir

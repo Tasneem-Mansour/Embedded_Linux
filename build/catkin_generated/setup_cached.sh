@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/tasneem/embedded_linux_ws/devel:$CMAKE_PREFIX_PATH"
 export PWD='/home/tasneem/embedded_linux_ws/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/tasneem/embedded_linux_ws/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/tasneem/embedded_linux_ws/src:$ROS_PACKAGE_PATH"
